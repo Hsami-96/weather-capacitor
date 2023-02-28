@@ -1,0 +1,19 @@
+.layoutContainer {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.locationContainer{
+    display: flex;
+    flex: 1;
+    flex-direction: column-reverse;
+}
+
+.forecastContainer {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}

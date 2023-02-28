@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "baseUrl": "../client/src",
+      "checkJs": true,
+      "jsx": "react"
+    }
+  }
